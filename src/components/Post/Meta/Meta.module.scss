@@ -1,0 +1,8 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.meta {
+  &__date {
+    @include margin-bottom(0.3);
+  }
+}
